@@ -1,14 +1,5 @@
 ## CARA INSTALL
-- Install Laravel 'composer create-project laravel/laravel chat-app
-- Kunjungi link pusher.com dan lakukan registrasi/sign up
-- setelah itu, kasih nama app nya terserah kamu
-- ketika sudah berhasil 'create app' maka kamu akan diarahkan ke dashboard dari app yg kamu buat sebelumnya
-- Masuk ke menu App Setings, aktifkan 'Enable client events'
-- Setelah itu selesai, lanjut instalasi Chatify pada aplikasi laravel
-- buka aplikasi laravel yg sudah dibuat sebelumnya, buka terminal dan ketik 'composer require munafio/chatify'
-- setelah ter-install, ketik 'php artisan chatify:install' untuk meng-generate beberapa konfigurasi yang diperlukan
-- ketika konfigurasi berhasil di generate, lakukan migration 'php artisan migrate:fresh'
-- ???
+<a href="https://santrikoding.com/tutorial-set/tutorial-membuat-aplikasi-real-time-chat-dengan-laravel" target="_blank">Click Here!</a>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
